@@ -3,7 +3,7 @@ Suite de commandes écritent en Turbo Pascal/Free Pascal pour les MP3
 
 <h3>Liste des fichiers</h3>
 
-Voici la liste des différents fichiers proposés dans Speech-to-Text-0 :
+Voici la liste des différents fichiers proposés dans MP3-TOOLS :
 
 <table>
 	<tr>
